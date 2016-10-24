@@ -1,7 +1,7 @@
 # Felipe Rank
 ---
 
-> I am Web Developer, work with applications and systems to the internet managers for companies, medium-sized applications. Currently my specialty is working with Laravel 5 (Server Side) and AngularJS (Client Side)
+> I am programmer backend and frontend, i work with web applications, with system for web, institutional sites, applications mobile. Currently i am working with Laravel and AngularJS.
 
 ---
 ```php
