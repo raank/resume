@@ -39,29 +39,29 @@ class Resume
 	 */
 	protected $companies = [
 		[
-		'name' => 'Hyperbolic',
-		'function' => 'Front End Developer',
-		'start' => '2012-02',
-		'end' => '2014-03'
-	],
+			'name' => 'Hyperbolic',
+			'function' => 'Front End Developer',
+			'start' => '2012-02',
+			'end' => '2014-03'
+		],
 		[
-		'name' => 'Milagro',
-		'function' => 'Front End Developer',
-		'start' => '2014-06',
-		'end' => '2015-08'
-	],
+			'name' => 'Milagro',
+			'function' => 'Front End Developer',
+			'start' => '2014-06',
+			'end' => '2015-08'
+		],
 		[
-		'name' => 'Fonix',
-		'function' => 'Full Stack Developer',
-		'start' => '2015-08',
-		'end' => '2016-02'
-	],
+			'name' => 'Fonix',
+			'function' => 'Full Stack Developer',
+			'start' => '2015-08',
+			'end' => '2016-02'
+		],
 		[
-		'name' => 'Freelancer, Self- Employed',
-		'function' => 'Web Developer, Full Stack',
-		'start' => '2016-02',
-		'end' => 'now'
-	]
+			'name' => 'Freelancer, Self- Employed',
+			'function' => 'Web Developer, Full Stack',
+			'start' => '2016-02',
+			'end' => 'now'
+		]
 	];
 
 	/**
