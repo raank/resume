@@ -30,7 +30,7 @@ class Resume
 	 *
 	 * @var string
 	 */
-	 protected $years;
+	protected $years;
 
 	/**
 	 * The companies names  that i worked.
@@ -97,6 +97,19 @@ class Resume
 	];
 
 	/**
+	 * My Graduation
+	 *
+	 * @var array
+	 */
+	protected $graduation = [
+		'course' => 'Analysis and systems development',
+		'start_at' => '2017-08',
+		'end_at' => '2019-07',
+		'estimated_time' => '30 months',
+		'institution' => 'Estácio de Sá - RJ'
+	];
+
+	/**
 	 * Create a new event.
 	 *
 	 */
@@ -150,6 +163,6 @@ class Resume
 ```
 ---
 > I'm looking for a challenge where I can be remembered.  
-Felipe Rank - [view my Linkedin](https://br.linkedin.com/in/raank)  
+Felipe Rank - [view my Linkedin](https://goo.gl/RHgrVF)
 raank92@gmail.com  
 +55 47 9917-1875 - **Skype**: felipe-rank
